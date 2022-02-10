@@ -1,10 +1,11 @@
 ## Micro - Reddit
+Micro reddit is a microblogging platform similar to Reddit. It is an application where users can create post, comment and interact with other users on a particular post. 
 This project puts our knowledge of active records, models, and associations to test. We built an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
 ## Built With
 
 - Ruby
-- Rails
+- Ruby on Rails
 
 ## Authors
 👤 **Author 1**
